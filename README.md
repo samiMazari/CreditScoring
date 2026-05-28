@@ -344,9 +344,9 @@ npm start  # Runs on http://localhost:3000
 
 ### Online Access
 
-**CrediScore AI Web App**: [Click here](https://creditscoring.lovable.app/)
-No installation required - direct web access with React frontend and Python backend.
-[![Screenshot](./images/screenshot.png)](https://creditscoring.lovable.app/)
+**CrediScore AI Web App**: [Click here](https://creditscoring.lovable.app/)                                                  
+No installation required - direct web access with React frontend and Python backend.                   
+[![Screenshot](./images/screenshot.png)](https://creditscoring.lovable.app/)                          
 ---
 
 ## Key Findings
@@ -519,5 +519,5 @@ MIT License - Free to use, modify, and distribute for academic and professional 
 
 ---
 
-**Last Updated:** February 2025  
+**Last Updated:** May 2025  
 **Status:** Final Thesis Version
