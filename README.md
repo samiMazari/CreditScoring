@@ -5,10 +5,6 @@
 Master Thesis - Applied Economics & AI  
 Université Paris-Est Créteil (UPEC)  
 Author: Mohamed Sami Mazari  
-Supervisor: Sylvain Cherayron  
-Date: February 2025
-
----
 
 ## 📋 Table of Contents
 
@@ -348,10 +344,9 @@ npm start  # Runs on http://localhost:3000
 
 ### Online Access
 
-**CrediScore AI Web App**: https://creditscoring.lovable.app/
-
+**CrediScore AI Web App**: [Click here](https://creditscoring.lovable.app/)
 No installation required - direct web access with React frontend and Python backend.
-
+[![Screenshot](./images/screenshot.png)](https://creditscoring.lovable.app/)
 ---
 
 ## Key Findings
